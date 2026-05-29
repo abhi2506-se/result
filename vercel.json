@@ -5,7 +5,7 @@
   "installCommand": "npm install",
   "regions": ["bom1"],
   "env": {
-    "DATABASE_URL": "@database_url",
+    "DATABASE_URL": "postgresql://neondb_owner:npg_kUuP3aNbS1wB@ep-mute-morning-aou2h429-pooler.c-2.ap-southeast-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require",
     "NEXTAUTH_SECRET": "@nextauth_secret",
     "NEXTAUTH_URL": "@nextauth_url",
     "SMTP_HOST": "@smtp_host",
